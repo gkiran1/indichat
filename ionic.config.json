@@ -1,0 +1,8 @@
+{
+  "name": "indichat",
+  "app_id": "5376c348",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
